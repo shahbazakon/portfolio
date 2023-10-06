@@ -1,0 +1,1 @@
+ /Users/karangore/Downloads/untitled\ folder/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/karangore/Downloads/untitled\ folder/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/karangore/Downloads/untitled\ folder/l10n.yaml /Users/karangore/Downloads/untitled\ folder/lib/l10n/app_en.arb
